@@ -31,8 +31,12 @@
 
   Magnificat anima mea Dominum;  
   Et exultavit spiritus meus in Deo salutari meo,  
-  Quia respexit humilitatem ancillae suae; ecce enim ex hoc beatam me dicent omnes generationes.
-  Quia fecit mihi magna qui potens est, et sanctum nomen ejus, Et misericordia ejus a progenie in progenies timentibus eum.  
+  Quia respexit humilitatem ancillae suae;
+  ecce enim ex hoc beatam me dicent omnes generationes.
+  Quia fecit mihi magna qui potens est,
+  et sanctum nomen ejus,
+
+  Et misericordia ejus a progenie in progenies timentibus eum.  
   Fecit potentiam brachio suo;  
   Dispersit superbos mente cordis sui.  
   Deposuit potentes de sede, et exaltavit humiles.  
