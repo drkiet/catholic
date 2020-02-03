@@ -281,7 +281,7 @@
 
 ##  The Stations of the Cross
 
-  Opening Prayer
+###  Opening Prayer
 
   Mary, my Mother, you were the first to live the Way of the Cross.
   You felt every pain and every humiliation. You were unafraid of the
